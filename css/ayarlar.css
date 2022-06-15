@@ -1,0 +1,50 @@
+.fs-joan {
+    font-family: 'Joan', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .li-ort {
+    list-style-position:inside;
+} */
+
+.ul-ort {
+    text-align:center;
+}
+.li-ort {
+    display:inline-block;
+    display: inline;
+}
+.yazi-ort {
+    text-align: center;
+}
+.sayfa-renk {
+    background-color: #F6E3C5;
+}
+.baslik-renk {
+    color: #4CACBC;
+}
+.altbaslik-renk {
+    color: #6CC4A1;
+}
+.altbaslik-renk2 {
+    color: #A0D995;
+}
+.h1font {
+    font-size:36px;
+}
+.yazisol {
+    text-align: left;
+}
+
+
+
+
+/* sitede olması gerekenler
+
+    google font_ok
+    inline css
+    internal css
+    external css_ok
+    colorhunt renk paleti
+    
+*/ 
